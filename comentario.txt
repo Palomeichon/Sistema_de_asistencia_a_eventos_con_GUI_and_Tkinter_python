@@ -1,0 +1,2 @@
+este es un proyecto que se trata del control de asistencia a eventos 
+desarrollado en python con interfaz de usuario GUI y con tkinter 
